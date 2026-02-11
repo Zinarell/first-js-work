@@ -1,1 +1,1 @@
-# first-js-work
+Выполнение заданий на чистом JavaScript
